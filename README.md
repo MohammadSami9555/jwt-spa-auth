@@ -1,4 +1,5 @@
 ﻿🛡️ JWT Based SPA Authentication (React + Node.js)
+ ----
 
 A complete JWT Authentication System built using:
 
@@ -15,6 +16,8 @@ JWT token storage
 Secure API authentication
 
 🚀 Features
+----
+
 
 ✔ Login with email & password
 
@@ -31,7 +34,10 @@ Secure API authentication
 ✔ Clean UI (centered login card)
 
 🛠️ Tech Stack
+----
+
 🖥️ Frontend
+--
 
 React
 
@@ -42,6 +48,7 @@ Axios
 Context API
 
 🛠 Backend
+--
 
 Node.js
 
@@ -68,6 +75,8 @@ JWT-SPA-AUTH
       │        └── Profile.js
 ---
 ⚙️ Installation & Setup
+--
+
 1️⃣ Clone repository
 git clone <repo-url>
 
@@ -131,6 +140,8 @@ Response
 
 ----
 🔒 Authentication Flow (How it works)
+----
+
 
 1️⃣ User enters email/password
 2️⃣ Frontend sends /login request
@@ -183,3 +194,4 @@ During this project I learned:
 
 
 🔹 Importance of error handling & validation
+
