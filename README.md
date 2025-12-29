@@ -89,6 +89,7 @@ npm run dev
 
 
 Backend runs at:
+--
 
 http://localhost:5000
 
@@ -101,10 +102,12 @@ npm start
 
 
 Frontend runs at:
+--
 
 http://localhost:3000
 
 🔑 Demo Login Credentials
+--
 email: test@example.com
 password: 123456
 
@@ -155,10 +158,12 @@ Response
 
 
 🛑 Protected Route Logic
+--
 if token exists → allow page
 if no token → redirect to /login
 
 🧠 Why JWT?
+--
 
 ✔ Stateless authentication
 ✔ No server session storage
@@ -167,6 +172,7 @@ if no token → redirect to /login
 ✔ Works with any frontend
 
 📚 What I Learned from this Project
+----
 
 During this project I learned:
 
@@ -194,4 +200,5 @@ During this project I learned:
 
 
 🔹 Importance of error handling & validation
+
 
